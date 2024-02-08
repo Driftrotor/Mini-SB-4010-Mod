@@ -21,3 +21,11 @@ This Mod is now in BETA TEST as some things will no doubt change as further opti
 For now though i am happy with the model and have releast the CAD for others to work on and modify. (creditation would be awesome if you do mod)
 
 If you have any more feedback it would be great!
+
+![Screenshot (8)](https://github.com/Driftrotor/Mini-SB-4010-Mod/assets/94327757/c6e6fdcc-f53e-4a0d-871e-b72d567b04ab)
+
+![Screenshot (9)](https://github.com/Driftrotor/Mini-SB-4010-Mod/assets/94327757/0ada379f-5edb-4214-9be7-ef8d2b6022a6)
+
+![Screenshot (10)](https://github.com/Driftrotor/Mini-SB-4010-Mod/assets/94327757/96654574-1577-4036-836f-14630ec4ed6e)
+
+![Screenshot (11)](https://github.com/Driftrotor/Mini-SB-4010-Mod/assets/94327757/dd94844e-217d-4c5c-956d-3cbd70365adb)
